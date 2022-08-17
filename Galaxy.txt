@@ -3,6 +3,7 @@ The Galaxy
 Blue
 Purple
 Pink
+Green
 Yellow
 etc
 These are the colors of the Celestial Objects
